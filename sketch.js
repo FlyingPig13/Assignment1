@@ -18,9 +18,29 @@
 */
 
 function setup() {
-
+  createCanvas(500, 500)
+  background(255, 255, 255)
+ 
 }
 
 function draw() {
+  
+  fill("blue")
+  strokeWeight(3)
+  //gridDraw takes in three numbers and outputs a grid of squares
+  //that fit the current canvas
+   var gridDraw = function(x, y, i){
+     
+   }
+   
+   rect(50,50,50,50)
+ 
+ 
+  
+  
+  
+  
+  
+  
 
 }
